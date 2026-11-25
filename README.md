@@ -7,6 +7,7 @@
 **看清数据包走过的每一步。**
 
 一款为 Windows 打造的现代路由追踪工具：逐跳延迟、地理位置、运营商线路、地图路径，一屏尽览。
+BestTrace / Opentrace 完美替代。
 
 [![Release](https://img.shields.io/github/v/release/Pockoo/HopScope?style=flat-square&color=2563eb)](https://github.com/Pockoo/HopScope/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/Pockoo/HopScope/total?style=flat-square&color=16a34a)](https://github.com/Pockoo/HopScope/releases)
