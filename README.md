@@ -142,7 +142,7 @@
 - 遇到问题或有好点子？欢迎在 [**Issues**](https://github.com/Pockoo/HopScope/issues) 留言，每一条我都会认真看。
 - 觉得好用，**点一个 ⭐ Star** 就是最好的鼓励。
 - 也可以在程序右上角「请作者喝杯咖啡」☕，你的支持是持续更新的动力。
-
+![打赏](Donate.png)
 ---
 
 <div align="center">
