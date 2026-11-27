@@ -10,7 +10,6 @@
 BestTrace / Opentrace 完美替代。
 
 [![Release](https://img.shields.io/github/v/release/Pockoo/HopScope?style=flat-square&color=2563eb)](https://github.com/Pockoo/HopScope/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Pockoo/HopScope/total?style=flat-square&color=16a34a)](https://github.com/Pockoo/HopScope/releases)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0ea5e9?style=flat-square)
 ![Size](https://img.shields.io/badge/绿色便携-免安装-f59e0b?style=flat-square)
 
