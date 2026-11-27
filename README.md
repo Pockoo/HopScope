@@ -85,7 +85,7 @@ BestTrace / Opentrace 完美替代。
 
 ## 📦 下载与使用
 
-1. 前往 [**Releases**](https://github.com/Pockoo/HopScope/releases/latest) / [**百度网盘**](https://pan.baidu.com/s/1zvSp7OjpqNnpGsiV-AlPVA?pwd=6666) 下载最新版压缩包，解压到任意文件夹。
+1. 前往 [**Releases**](https://github.com/Pockoo/HopScope/releases/latest) / [**百度网盘**](https://pan.baidu.com/s/1zvSp7OjpqNnpGsiV-AlPVA?pwd=6666) / [**蓝奏网盘**](https://justapp.lanzoub.com/b0kph7o7g?pwd=gp07) 下载最新版压缩包，解压到任意文件夹。
 2. 双击 `HopScope.exe`。
 3. 输入域名或 IP（直接粘贴网址也行），按 **回车** 或点击 **开始**。
 
